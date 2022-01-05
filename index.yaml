@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  grafana-agent:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-05T11:14:57.751031817Z"
+    description: A Helm chart for Kubernetes
+    digest: 6e9698c9842397acf4b7e54ec3b7a343e6f7433e34dd35b9eeeca25c39d10201
+    name: grafana-agent
+    type: application
+    urls:
+    - https://github.com/mhuzaifahkhan/helm-charts/releases/download/grafana-agent-0.1.0/grafana-agent-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-05T11:14:57.751036517Z"
