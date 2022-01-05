@@ -3,7 +3,13 @@
 > Collection of Helm Charts that allow for easy deployment of applications onto a Kubernetes Cluster, these charts
 > follow best-practise and security policies.
 
-## Usage
+## Available Charts
+
+| Chart Name    | Status |
+| ------------- | ------ |
+| Grafana Agent | Alpha  |
+
+## Usage Example
 
 [Helm](https://helm.sh) must be installed to use the charts. Please refer to Helm's [documentation](https://helm.sh/docs) to get started.
 
